@@ -1,0 +1,56 @@
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Billing System.exe.config
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Form1.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.exe
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Database.mdf
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Database_log.ldf
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.AppBody.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.About_UserControl.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Customer_UserControl.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Orders_UserControl.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Product_UserControl.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Transactions_UserControl.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Employee_UserControl.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\bin\Debug\Billing System.application
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing System.application
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Home_Page.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.AddUser.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.RemoveUser.resources
+C:\Users\Pranav.R.D\source\repos\Billing System\Billing System\obj\Debug\Billing_System.Settings_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Database.mdf
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Database_log.ldf
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Billing System.exe.config
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Billing System.exe.manifest
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Billing System.application
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Billing System.exe
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\bin\Debug\Billing System.pdb
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.About_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.AddUser.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.AppBody.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Bill.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Customer_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Employee_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Form1.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Home_Page.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Orders_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Product_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.RemoveUser.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Settings_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing_System.Transactions_UserControl.resources
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.exe.manifest
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.application
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.exe
+C:\Users\Shoaib-PC\OneDrive\Desktop\Projects\DBMS-Mini-Project---Billing-System-main\Source Code\Billing System\obj\Debug\Billing System.pdb
